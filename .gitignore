@@ -1,0 +1,11 @@
+# Path: labs/tailzlayer/.gitignore
+
+hvma_benchmark
+*.o
+*.s
+*.i
+/tmp/hvma_benchmark
+target/
+.DS_Store
+
+# end of file: labs/tailzlayer/.gitignore
