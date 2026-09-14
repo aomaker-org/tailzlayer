@@ -4,7 +4,8 @@ hvma_benchmark
 *.o
 *.s
 *.i
-/tmp/hvma_benchmark
+/tmp/hvma_benchmark*
+artifacts/
 target/
 .DS_Store
 
